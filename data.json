@@ -1,0 +1,3892 @@
+{
+  "title": "Provkodsmotsvarigheter",
+  "source": "Provkodregister och motsvarighetsbedömning v2 261029(1).xlsx",
+  "assessment_status": "no_assessment_rows",
+  "courses": [
+    {
+      "code": "RA111G",
+      "name": "Radiografi, Radiografi I",
+      "version": "Revision 2, giltig HT 2026",
+      "codes": [
+        {
+          "code": "A001",
+          "name": "Statistik",
+          "hp": 3,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Skriftlig tentamen."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA101G",
+              "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+              "prov_code": "B001",
+              "prov_name": "Statistik",
+              "exam": "Skriftlig tentamen",
+              "hp": 3,
+              "mapping": "RA111G-A001",
+              "content": "Skriftlig tentamen i statistik.",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A002",
+          "name": "Vetenskaplig metod och vetenskapsteori",
+          "hp": 3,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Skriftlig tentamen."
+          ],
+          "new_moments": [
+            "Skriftlig tentamen."
+          ],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A003",
+          "name": "Vetenskaplig metod",
+          "hp": 1.5,
+          "exam": "Muntlig examination",
+          "contents": [
+            "Muntlig presentation av ett examensarbete",
+            "Walkshop"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA101G",
+              "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+              "prov_code": "B003",
+              "prov_name": "Vetenskaplig metod",
+              "exam": "Skriftlig inlämningsuppgift samt muntlig examination",
+              "hp": 3,
+              "mapping": "RA111G-A003",
+              "content": "Muntlig presentation av ett examensarbete · Walkshop muntlig",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A004",
+          "name": "Cellbiologi",
+          "hp": 4,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Skriftlig tentamen."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA101G",
+              "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+              "prov_code": "B002",
+              "prov_name": "Cellbiologi, vetenskapsteori samt lagar och förordningar",
+              "exam": "Skriftlig tentamen",
+              "hp": 6.5,
+              "mapping": "RA111G-A004",
+              "content": "Skriftlig tentamen som omfattar cellbiologi, vetenskapsteori samt lagar och förordningar.",
+              "comment": "Endast cellbiologi"
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A005",
+          "name": "Radiografi I",
+          "hp": 3,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "contents": [
+            "Quiz Yrkesrollen",
+            "Seminarium Yrkesrollen"
+          ],
+          "new_moments": [
+            "Quiz Yrkesrollen"
+          ],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA101G",
+              "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+              "prov_code": "C004",
+              "prov_name": "Seminarier",
+              "exam": "Muntlig examination",
+              "hp": 2,
+              "mapping": "RA111G-A005",
+              "content": "Yrkesrollen",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A006",
+          "name": "Radiografi II",
+          "hp": 2,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "contents": [
+            "Skriftlig inlämning om vad de tror professionen innebär",
+            "Seminarium Radiografins framväxt som ämne"
+          ],
+          "new_moments": [
+            "Skriftlig inlämning om vad de tror professionen innebär",
+            "Seminarium Radiografins framväxt som ämne"
+          ],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A007",
+          "name": "Radiografi III",
+          "hp": 4.5,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "contents": [
+            "Hållbar utveckling",
+            "IPL",
+            "Säkerhetsrundvandring",
+            "Muntlig presentation Röntgenbilden",
+            "Muntlig presentation Organsystemen",
+            "Quiz Organsystemen",
+            "Quiz Personcentrerad vård och den periradiografiska processen"
+          ],
+          "new_moments": [
+            "Quiz Organsystemen",
+            "Quiz Personcentrerad vård och den periradiografiska processen"
+          ],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA101G",
+              "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+              "prov_code": "C004",
+              "prov_name": "Seminarier",
+              "exam": "Muntlig examination",
+              "hp": 2,
+              "mapping": "RA111G-A007",
+              "content": "IPL · Röntgenbilden · Hållbar utveckling",
+              "comment": null
+            },
+            {
+              "course_code": "RA101G",
+              "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+              "prov_code": "A007",
+              "prov_name": "Säkerhetsrundvandring",
+              "exam": "Praktisk examination",
+              "hp": null,
+              "mapping": "RA111G-A007",
+              "content": "Praktiskt moment. Endast DT.",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        }
+      ],
+      "name_display": "Radiografi I",
+      "hp_total": 21.0,
+      "matrix_groups": [
+        {
+          "code": "A001",
+          "name": "Statistik",
+          "hp": 3.0,
+          "exam": "Skriftlig tentamen",
+          "version": "Revision 2, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A001",
+              "content": "Skriftlig tentamen.",
+              "right": {
+                "kind": "match",
+                "level": "content",
+                "status": "Äldre innehåll att jämföra",
+                "prov_code": "B001",
+                "course_code": "RA101G",
+                "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+                "prov_name": "Statistik",
+                "content": "Skriftlig tentamen i statistik.",
+                "comment": "Kan tillgodoräknas.",
+                "plan_version": "Revision 4, giltig HT 2024",
+                "hp": 3.0,
+                "exam": "Skriftlig tentamen"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A002",
+          "name": "Vetenskaplig metod och vetenskapsteori",
+          "hp": 3.0,
+          "exam": "Skriftlig tentamen",
+          "version": "Revision 2, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A002",
+              "content": "Skriftlig tentamen.",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A003",
+          "name": "Vetenskaplig metod",
+          "hp": 1.5,
+          "exam": "Muntlig examination",
+          "version": "Revision 2, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A003",
+              "content": "Muntlig presentation av ett examensarbete",
+              "right": {
+                "kind": "match",
+                "level": "content",
+                "status": "Äldre innehåll att jämföra",
+                "prov_code": "B003",
+                "course_code": "RA101G",
+                "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+                "prov_name": "Vetenskaplig metod",
+                "content": "Muntlig presentation av ett examensarbete",
+                "comment": "Kan tillgodoräknas.",
+                "plan_version": "Revision 4, giltig HT 2024",
+                "hp": 3.0,
+                "exam": "Skriftlig inlämningsuppgift samt muntlig examination"
+              }
+            },
+            {
+              "prov_code": "A003",
+              "content": "Walkshop",
+              "right": {
+                "kind": "match",
+                "level": "content",
+                "status": "Äldre innehåll att jämföra",
+                "prov_code": "B003",
+                "course_code": "RA101G",
+                "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+                "prov_name": "Vetenskaplig metod",
+                "content": "Walkshop muntlig",
+                "comment": "Kan tillgodoräknas.",
+                "plan_version": "Revision 4, giltig HT 2024",
+                "hp": 3.0,
+                "exam": "Skriftlig inlämningsuppgift samt muntlig examination"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A004",
+          "name": "Cellbiologi",
+          "hp": 4.0,
+          "exam": "Skriftlig tentamen",
+          "version": "Revision 2, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A004",
+              "content": "Skriftlig tentamen.",
+              "right": {
+                "kind": "match",
+                "level": "content",
+                "status": "Äldre innehåll att jämföra",
+                "prov_code": "B002",
+                "course_code": "RA101G",
+                "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+                "prov_name": "Cellbiologi, vetenskapsteori samt lagar och förordningar",
+                "content": "Skriftlig tentamen som omfattar cellbiologi, vetenskapsteori samt lagar och förordningar.",
+                "comment": "Endast cellbiologi kan tillgodoräknas.",
+                "plan_version": "Revision 4, giltig HT 2024",
+                "hp": 6.5,
+                "exam": "Skriftlig tentamen"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A005",
+          "name": "Radiografi I",
+          "hp": 3.0,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "version": "Revision 2, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A005",
+              "content": "Quiz Yrkesrollen",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras"
+              }
+            },
+            {
+              "prov_code": "A005",
+              "content": "Seminarium Yrkesrollen",
+              "right": {
+                "kind": "match",
+                "level": "content",
+                "status": "Äldre innehåll att jämföra",
+                "prov_code": "C004",
+                "course_code": "RA101G",
+                "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+                "prov_name": "Seminarier",
+                "content": "Yrkesrollen",
+                "comment": "Kan tillgodoräknas.",
+                "plan_version": "Revision 4, giltig HT 2024",
+                "hp": 2.0,
+                "exam": "Muntlig examination"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A006",
+          "name": "Radiografi II",
+          "hp": 2.0,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "version": "Revision 2, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A006",
+              "content": "Skriftlig inlämning om vad de tror professionen innebär",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras"
+              }
+            },
+            {
+              "prov_code": "A006",
+              "content": "Seminarium Radiografins framväxt som ämne",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A007",
+          "name": "Radiografi III",
+          "hp": 4.5,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "version": "Revision 2, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A007",
+              "content": "Hållbar utveckling",
+              "right": {
+                "kind": "match",
+                "level": "content",
+                "status": "Äldre innehåll att jämföra",
+                "prov_code": "C004",
+                "course_code": "RA101G",
+                "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+                "prov_name": "Seminarier",
+                "content": "Hållbar utveckling",
+                "comment": "Kan tillgodoräknas.",
+                "plan_version": "Revision 4, giltig HT 2024",
+                "hp": 2.0,
+                "exam": "Muntlig examination"
+              }
+            },
+            {
+              "prov_code": "A007",
+              "content": "IPL",
+              "right": {
+                "kind": "match",
+                "level": "content",
+                "status": "Äldre innehåll att jämföra",
+                "prov_code": "C004",
+                "course_code": "RA101G",
+                "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+                "prov_name": "Seminarier",
+                "content": "IPL",
+                "comment": "Kan tillgodoräknas.",
+                "plan_version": "Revision 4, giltig HT 2024",
+                "hp": 2.0,
+                "exam": "Muntlig examination"
+              }
+            },
+            {
+              "prov_code": "A007",
+              "content": "Säkerhetsrundvandring",
+              "right": {
+                "kind": "match",
+                "level": "code",
+                "status": "Koppling på provkodsnivå",
+                "prov_code": "A007",
+                "course_code": "RA101G",
+                "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+                "prov_name": "Säkerhetsrundvandring",
+                "content": "Praktiskt moment. Endast DT.",
+                "comment": "Kan tillgodoräknas i RA111G-A007",
+                "plan_version": "Revision 4, giltig HT 2024",
+                "hp": null,
+                "exam": "Praktisk examination"
+              }
+            },
+            {
+              "prov_code": "A007",
+              "content": "Muntlig presentation Röntgenbilden",
+              "right": {
+                "kind": "match",
+                "level": "content",
+                "status": "Äldre innehåll att jämföra",
+                "prov_code": "C004",
+                "course_code": "RA101G",
+                "course_name": "Radiografi, Introduktion och vetenskaplig metod",
+                "prov_name": "Seminarier",
+                "content": "Röntgenbilden",
+                "comment": "Kan tillgodoräknas.",
+                "plan_version": "Revision 4, giltig HT 2024",
+                "hp": 2.0,
+                "exam": "Muntlig examination"
+              }
+            },
+            {
+              "prov_code": "A007",
+              "content": "Muntlig presentation Organsystemen",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras"
+              }
+            },
+            {
+              "prov_code": "A007",
+              "content": "Quiz Organsystemen",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras"
+              }
+            },
+            {
+              "prov_code": "A007",
+              "content": "Quiz Personcentrerad vård och den periradiografiska processen",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "RA112G",
+      "name": "Radiografi, Radiografi II",
+      "version": null,
+      "codes": [
+        {
+          "code": "A001",
+          "name": "Strålningsfysik",
+          "hp": 6,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Strålningsfysik - joniserande strålning"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA102G",
+              "course_name": "Radiografi, Strålningsfysik, teknik och projektionslära",
+              "prov_code": "A001",
+              "prov_name": "Strålningsfysik",
+              "exam": "Skriftlig tentamen",
+              "hp": 6,
+              "mapping": "RA112G-A001",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A002",
+          "name": "Radiografi I",
+          "hp": 1.5,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "contents": [
+            "Seminarium Grundläggande strålningsfysik",
+            "Quiz Medicinteknisk säkerhet",
+            "Seminarium Kontrastmedel",
+            "Lagar och förordningar"
+          ],
+          "new_moments": [
+            "Quiz Medicinteknisk säkerhet",
+            "Seminarium Kontrastmedel",
+            "Lagar och förordningar"
+          ],
+          "source_notes": [
+            "Ersätter tentamen"
+          ],
+          "matches": [
+            {
+              "course_code": "RA102G",
+              "course_name": "Radiografi, Strålningsfysik, teknik och projektionslära",
+              "prov_code": "B005",
+              "prov_name": "Radiografisk tillämpning I",
+              "exam": "Muntlig examination",
+              "hp": 1.5,
+              "mapping": "RA112G-A002",
+              "content": "Patientinformation · Yrket",
+              "comment": null
+            },
+            {
+              "course_code": "RA102G",
+              "course_name": "Radiografi, Strålningsfysik, teknik och projektionslära",
+              "prov_code": "B007",
+              "prov_name": "Seminarium",
+              "exam": "Muntlig examination",
+              "hp": 1.5,
+              "mapping": "RA112G-A002",
+              "content": "Strålningsfysik",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A003",
+          "name": "Radiografi II",
+          "hp": 1.5,
+          "exam": "Muntlig examination",
+          "contents": [
+            "Grupparbete och muntlig presentation av ett ämne inom strplningsfysiken."
+          ],
+          "new_moments": [
+            "Grupparbete och muntlig presentation av ett ämne inom strplningsfysiken."
+          ],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        }
+      ],
+      "name_display": "Radiografi II",
+      "hp_total": 9.0,
+      "matrix_groups": [
+        {
+          "code": "A001",
+          "name": "Strålningsfysik",
+          "hp": 6.0,
+          "exam": "Skriftlig tentamen",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A001",
+              "content": "Strålningsfysik - joniserande strålning",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "code",
+                    "status": "Koppling på provkodsnivå",
+                    "record": {
+                      "course_code": "RA102G",
+                      "course_name": "Radiografi, Strålningsfysik, teknik och projektionslära",
+                      "prov_code": "A001",
+                      "prov_name": "Strålningsfysik",
+                      "content": "Skriftlig tentamen.",
+                      "hp": 6.0,
+                      "exam": "Skriftlig tentamen",
+                      "plan_version": "Revision 4, giltig VT 2025",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "RA112G-A001"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A002",
+          "name": "Radiografi I",
+          "hp": 1.5,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A002",
+              "content": "Seminarium Grundläggande strålningsfysik",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "RA102G",
+                      "course_name": "Radiografi, Strålningsfysik, teknik och projektionslära",
+                      "prov_code": "B007",
+                      "prov_name": "Seminarium",
+                      "content": "Strålningsfysik",
+                      "hp": 1.5,
+                      "exam": "Muntlig examination",
+                      "plan_version": "Revision 4, giltig VT 2025",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "RA112G-A002"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "prov_code": "A002",
+              "content": "Quiz Medicinteknisk säkerhet",
+              "source_flag": "Nytt moment",
+              "source_comment": "Ersätter tidigare del i tentamen",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment",
+                "comment": "Ersätter tidigare del i tentamen",
+                "records": []
+              }
+            },
+            {
+              "prov_code": "A002",
+              "content": "Seminarium Kontrastmedel",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            },
+            {
+              "prov_code": "A002",
+              "content": "Seminarium Lagar och förordningar",
+              "source_flag": "Nytt moment",
+              "source_comment": "Ersätter tidigare del i tentamen",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment",
+                "comment": "Ersätter tidigare del i tentamen",
+                "records": []
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "RA102G",
+                "course_name": "Radiografi, Strålningsfysik, teknik och projektionslära",
+                "prov_code": "B005",
+                "prov_name": "Radiografisk tillämpning I",
+                "content": "Patientinformation",
+                "hp": 1.5,
+                "exam": "Muntlig examination",
+                "plan_version": "Revision 4, giltig VT 2025",
+                "comment": "Kan tillgodoräknas.",
+                "mapping": "RA112G-A002"
+              }
+            },
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "RA102G",
+                "course_name": "Radiografi, Strålningsfysik, teknik och projektionslära",
+                "prov_code": "B005",
+                "prov_name": "Radiografisk tillämpning I",
+                "content": "Yrket",
+                "hp": 1.5,
+                "exam": "Muntlig examination",
+                "plan_version": "Revision 4, giltig VT 2025",
+                "comment": "Kan tillgodoräknas.",
+                "mapping": "RA112G-A002"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A003",
+          "name": "Radiografi II",
+          "hp": 1.5,
+          "exam": "Muntlig examination",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A003",
+              "content": "Grupparbete och muntlig presentation av ett ämne inom strplningsfysiken.",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "code": "MC113G",
+      "name": "Medicin, Hälsa och sjukdom: fysiologi, anatomi, sjukdomslära och farmakologi",
+      "version": null,
+      "codes": [
+        {
+          "code": "A001",
+          "name": "Allmän farmakologi",
+          "hp": 2,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Allmän farmakologi"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "MC212G",
+              "course_name": "Medicin, Sjukdomslära med farmakologi",
+              "prov_code": "A001",
+              "prov_name": "Allmän och specifik farmakologi",
+              "exam": "Skriftlig tentamen",
+              "hp": 2,
+              "mapping": "MC113G-A001",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A002",
+          "name": "Fysiologi och anatomi inom tema 1",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Tema 1 - nervsystemet, sinnen, muskelfysiologi, skelettets fysiologi, endokrina"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A003",
+          "name": "Fysiologi och anatomi inom tema 2",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Tema 2 - cirkulation, respiration, blodet"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "MC201G",
+              "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+              "prov_code": "A001",
+              "prov_name": "Fysiologi",
+              "exam": "Individuell skriftlig salstentamen",
+              "hp": 8,
+              "mapping": "MC113-A002: MC113G-A003: MC113G-A004",
+              "content": "Individuell skriftlig salstentamen.",
+              "comment": null
+            },
+            {
+              "course_code": "MC201G",
+              "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+              "prov_code": "A002",
+              "prov_name": "Anatomi",
+              "exam": "Individuell muntlig examination",
+              "hp": 2.5,
+              "mapping": "MC113-A002: MC113G-A003: MC113G-A004",
+              "content": "Individuell muntlig examination.",
+              "comment": "Motsvarar kanske inte helt innehållet i den nya kursen, se antal HP"
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A004",
+          "name": "Fysiologi och anatomi inom tema 3",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Tema 3 - magtam, urinvägarna, reproduktionen, mikrobiologi, immunologi"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "MC201G",
+              "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+              "prov_code": "A001",
+              "prov_name": "Fysiologi",
+              "exam": "Individuell skriftlig salstentamen",
+              "hp": 8,
+              "mapping": "MC113-A002: MC113G-A003: MC113G-A004",
+              "content": "Individuell skriftlig salstentamen.",
+              "comment": null
+            },
+            {
+              "course_code": "MC201G",
+              "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+              "prov_code": "A002",
+              "prov_name": "Anatomi",
+              "exam": "Individuell muntlig examination",
+              "hp": 2.5,
+              "mapping": "MC113-A002: MC113G-A003: MC113G-A004",
+              "content": "Individuell muntlig examination.",
+              "comment": "Motsvarar kanske inte helt innehållet i den nya kursen, se antal HP"
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A005",
+          "name": "Sjukdomslära med specifik farmakologi inom tema 1",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Tema 1 - nervsystemets sjukdomar, endokrina sjukdomar, ortopedi, rörelseapparatens sjukdomar, analgetika och psykofarmaka"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": [
+            {
+              "source_mapping": "MC113G-AA005",
+              "old_course_code": "MC212G",
+              "old_course_name": "Medicin, Sjukdomslära med farmakologi",
+              "old_prov_code": "A002",
+              "old_prov_name": "Sjukdomslära del I",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            },
+            {
+              "source_mapping": "MC113G-AA005",
+              "old_course_code": "MC212G",
+              "old_course_name": "Medicin, Sjukdomslära med farmakologi",
+              "old_prov_code": "A003",
+              "old_prov_name": "Sjukdomslära del II",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            }
+          ]
+        },
+        {
+          "code": "A006",
+          "name": "Sjukdomslära med specifik farmakologi inom tema 2",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Tema 2 - hjärtkärlsjukdomar, blodets sjukdomar, lungornas sjukdomar"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "MC212G",
+              "course_name": "Medicin, Sjukdomslära med farmakologi",
+              "prov_code": "A002",
+              "prov_name": "Sjukdomslära del I",
+              "exam": "Skriftlig tentamen",
+              "hp": 5,
+              "mapping": "MC113G-AA005: MC113G-A006: MC113G-A007",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            },
+            {
+              "course_code": "MC212G",
+              "course_name": "Medicin, Sjukdomslära med farmakologi",
+              "prov_code": "A003",
+              "prov_name": "Sjukdomslära del II",
+              "exam": "Skriftlig tentamen",
+              "hp": 5,
+              "mapping": "MC113G-AA005: MC113G-A006: MC113G-A007",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A007",
+          "name": "Sjukdomslära med specifik farmakologi inom tema 3",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Tema 3 - magtarmsystemets sjukdomar, njursjukdomar, infektionssjukdomar, immunologiska sjukdomar, akut buk och skallskador"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "MC212G",
+              "course_name": "Medicin, Sjukdomslära med farmakologi",
+              "prov_code": "A002",
+              "prov_name": "Sjukdomslära del I",
+              "exam": "Skriftlig tentamen",
+              "hp": 5,
+              "mapping": "MC113G-AA005: MC113G-A006: MC113G-A007",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            },
+            {
+              "course_code": "MC212G",
+              "course_name": "Medicin, Sjukdomslära med farmakologi",
+              "prov_code": "A003",
+              "prov_name": "Sjukdomslära del II",
+              "exam": "Skriftlig tentamen",
+              "hp": 5,
+              "mapping": "MC113G-AA005: MC113G-A006: MC113G-A007",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A008",
+          "name": "Medicin I",
+          "hp": 3,
+          "exam": "Praktisk examination",
+          "contents": [
+            "Nervsystemet (neurografi)",
+            "Mikrobiologi, del 1",
+            "Mikrobiologi , del 2"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "MC201G",
+              "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+              "prov_code": "B003",
+              "prov_name": "Medicinsk tillämpning",
+              "exam": "Praktisk examination",
+              "hp": 2,
+              "mapping": "MC113G-A008",
+              "content": "Nervsystemet (neurografi) · Mikrobiologi",
+              "comment": null
+            },
+            {
+              "course_code": "MC201G",
+              "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+              "prov_code": "B004",
+              "prov_name": "Seminarier",
+              "exam": "Muntlig examination",
+              "hp": 2.5,
+              "mapping": "MC113G-A008",
+              "content": "Nervsystemet",
+              "comment": null
+            },
+            {
+              "course_code": "OM103G",
+              "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+              "prov_code": "A002",
+              "prov_name": "Metoder och tekniker",
+              "exam": "Praktisk examination",
+              "hp": 2,
+              "mapping": "MC113G-A008",
+              "content": "Puls och blodtrycksmätning",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A009",
+          "name": "Medicin II",
+          "hp": 4,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "contents": [
+            "Seminarium Artikelseminarium",
+            "Seminarium Röntgenanatomi",
+            "Seminarium Folkhälsa"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "MC212G",
+              "course_name": "Medicin, Sjukdomslära med farmakologi",
+              "prov_code": "B004",
+              "prov_name": "Vetenskaplig metod",
+              "exam": "Muntlig examination",
+              "hp": 1,
+              "mapping": "MC113G-A009",
+              "content": "Artikelseminarium",
+              "comment": null
+            },
+            {
+              "course_code": "MC212G",
+              "course_name": "Medicin, Sjukdomslära med farmakologi",
+              "prov_code": "A006",
+              "prov_name": "Folkhälsa",
+              "exam": "Muntlig examination",
+              "hp": 1,
+              "mapping": "MC113G-A009",
+              "content": "Muntlig examination.",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        }
+      ],
+      "name_display": "Medicin, Hälsa och sjukdom: fysiologi, anatomi, sjukdomslära och farmakologi",
+      "hp_total": 30.0,
+      "matrix_groups": [
+        {
+          "code": "A001",
+          "name": "Allmän farmakologi",
+          "hp": 2.0,
+          "exam": "Skriftlig tentamen",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A001",
+              "content": "Allmän farmakologi",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "code",
+                    "status": "Koppling på provkodsnivå",
+                    "record": {
+                      "course_code": "MC212G",
+                      "course_name": "Medicin, Sjukdomslära med farmakologi",
+                      "prov_code": "A001",
+                      "prov_name": "Allmän och specifik farmakologi",
+                      "content": "Skriftlig tentamen.",
+                      "hp": 2.0,
+                      "exam": "Skriftlig tentamen",
+                      "plan_version": null,
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "MC113G-A001"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A002",
+          "name": "Fysiologi och anatomi inom tema 1",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A002",
+              "content": "Tema 1 - nervsystemet, sinnen, muskelfysiologi, skelettets fysiologi, endokrina",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "group_link",
+                "label": "Källan anger en provkod som avviker och behöver kontrolleras; se raderna nedan."
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "unresolved",
+              "mapping": "MC113-A002",
+              "record": {
+                "course_code": "MC201G",
+                "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+                "prov_code": "A001",
+                "prov_name": "Fysiologi",
+                "content": "Individuell skriftlig salstentamen.",
+                "hp": 8.0,
+                "exam": "Individuell skriftlig salstentamen",
+                "plan_version": "Revision 3, giltig HT 2024",
+                "comment": "Kan tillgodoräknas.",
+                "mapping": "MC113-A002: MC113G-A003: MC113G-A004"
+              }
+            },
+            {
+              "kind": "unresolved",
+              "mapping": "MC113-A002",
+              "record": {
+                "course_code": "MC201G",
+                "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+                "prov_code": "A002",
+                "prov_name": "Anatomi",
+                "content": "Individuell muntlig examination.",
+                "hp": 2.5,
+                "exam": "Individuell muntlig examination",
+                "plan_version": "Revision 3, giltig HT 2024",
+                "comment": "Motsvarar kanske inte helt innehållet i den nya kursen, se antal HP",
+                "mapping": "MC113-A002: MC113G-A003: MC113G-A004"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A003",
+          "name": "Fysiologi och anatomi inom tema 2",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A003",
+              "content": "Tema 2 - cirkulation, respiration, blodet",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "group_link",
+                "label": "Kopplingen gäller provkoden som helhet; registret anger ingen särskild äldre momentrad för just detta moment."
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC201G",
+                "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+                "prov_code": "A001",
+                "prov_name": "Fysiologi",
+                "content": "Individuell skriftlig salstentamen.",
+                "hp": 8.0,
+                "exam": "Individuell skriftlig salstentamen",
+                "plan_version": "Revision 3, giltig HT 2024",
+                "comment": "Kan tillgodoräknas.",
+                "mapping": "MC113-A002: MC113G-A003: MC113G-A004"
+              }
+            },
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC201G",
+                "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+                "prov_code": "A002",
+                "prov_name": "Anatomi",
+                "content": "Individuell muntlig examination.",
+                "hp": 2.5,
+                "exam": "Individuell muntlig examination",
+                "plan_version": "Revision 3, giltig HT 2024",
+                "comment": "Motsvarar kanske inte helt innehållet i den nya kursen, se antal HP",
+                "mapping": "MC113-A002: MC113G-A003: MC113G-A004"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A004",
+          "name": "Fysiologi och anatomi inom tema 3",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A004",
+              "content": "Tema 3 - magtam, urinvägarna, reproduktionen, mikrobiologi, immunologi",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "group_link",
+                "label": "Kopplingen gäller provkoden som helhet; registret anger ingen särskild äldre momentrad för just detta moment."
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC201G",
+                "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+                "prov_code": "A001",
+                "prov_name": "Fysiologi",
+                "content": "Individuell skriftlig salstentamen.",
+                "hp": 8.0,
+                "exam": "Individuell skriftlig salstentamen",
+                "plan_version": "Revision 3, giltig HT 2024",
+                "comment": "Kan tillgodoräknas.",
+                "mapping": "MC113-A002: MC113G-A003: MC113G-A004"
+              }
+            },
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC201G",
+                "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+                "prov_code": "A002",
+                "prov_name": "Anatomi",
+                "content": "Individuell muntlig examination.",
+                "hp": 2.5,
+                "exam": "Individuell muntlig examination",
+                "plan_version": "Revision 3, giltig HT 2024",
+                "comment": "Motsvarar kanske inte helt innehållet i den nya kursen, se antal HP",
+                "mapping": "MC113-A002: MC113G-A003: MC113G-A004"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A005",
+          "name": "Sjukdomslära med specifik farmakologi inom tema 1",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A005",
+              "content": "Tema 1 - nervsystemets sjukdomar, endokrina sjukdomar, ortopedi, rörelseapparatens sjukdomar, analgetika och psykofarmaka",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "group_link",
+                "label": "Källan anger en provkod som avviker och behöver kontrolleras; se raderna nedan."
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "unresolved",
+              "mapping": "MC113G-AA005",
+              "record": {
+                "course_code": "MC212G",
+                "course_name": "Medicin, Sjukdomslära med farmakologi",
+                "prov_code": "A002",
+                "prov_name": "Sjukdomslära del I",
+                "content": "Skriftlig tentamen.",
+                "hp": 5.0,
+                "exam": "Skriftlig tentamen",
+                "plan_version": null,
+                "comment": "Om MC212G A002 och MC212G A003 är godkända kan de tre provkoderna tillgodoräknas.",
+                "mapping": "MC113G-AA005: MC113G-A006: MC113G-A007"
+              }
+            },
+            {
+              "kind": "unresolved",
+              "mapping": "MC113G-AA005",
+              "record": {
+                "course_code": "MC212G",
+                "course_name": "Medicin, Sjukdomslära med farmakologi",
+                "prov_code": "A003",
+                "prov_name": "Sjukdomslära del II",
+                "content": "Skriftlig tentamen.",
+                "hp": 5.0,
+                "exam": "Skriftlig tentamen",
+                "plan_version": null,
+                "comment": "Om MC212G A002 och MC212G A003 är godkända kan de tre provkoderna tillgodoräknas.",
+                "mapping": "MC113G-AA005: MC113G-A006: MC113G-A007"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A006",
+          "name": "Sjukdomslära med specifik farmakologi inom tema 2",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A006",
+              "content": "Tema 2 - hjärtkärlsjukdomar, blodets sjukdomar, lungornas sjukdomar",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "group_link",
+                "label": "Kopplingen gäller provkoden som helhet; registret anger ingen särskild äldre momentrad för just detta moment."
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC212G",
+                "course_name": "Medicin, Sjukdomslära med farmakologi",
+                "prov_code": "A002",
+                "prov_name": "Sjukdomslära del I",
+                "content": "Skriftlig tentamen.",
+                "hp": 5.0,
+                "exam": "Skriftlig tentamen",
+                "plan_version": null,
+                "comment": "Om MC212G A002 och MC212G A003 är godkända kan de tre provkoderna tillgodoräknas.",
+                "mapping": "MC113G-AA005: MC113G-A006: MC113G-A007"
+              }
+            },
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC212G",
+                "course_name": "Medicin, Sjukdomslära med farmakologi",
+                "prov_code": "A003",
+                "prov_name": "Sjukdomslära del II",
+                "content": "Skriftlig tentamen.",
+                "hp": 5.0,
+                "exam": "Skriftlig tentamen",
+                "plan_version": null,
+                "comment": "Om MC212G A002 och MC212G A003 är godkända kan de tre provkoderna tillgodoräknas.",
+                "mapping": "MC113G-AA005: MC113G-A006: MC113G-A007"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A007",
+          "name": "Sjukdomslära med specifik farmakologi inom tema 3",
+          "hp": 3.5,
+          "exam": "Skriftlig tentamen",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A007",
+              "content": "Tema 3 - magtarmsystemets sjukdomar, njursjukdomar, infektionssjukdomar, immunologiska sjukdomar, akut buk och skallskador",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "group_link",
+                "label": "Kopplingen gäller provkoden som helhet; registret anger ingen särskild äldre momentrad för just detta moment."
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC212G",
+                "course_name": "Medicin, Sjukdomslära med farmakologi",
+                "prov_code": "A002",
+                "prov_name": "Sjukdomslära del I",
+                "content": "Skriftlig tentamen.",
+                "hp": 5.0,
+                "exam": "Skriftlig tentamen",
+                "plan_version": null,
+                "comment": "Om MC212G A002 och MC212G A003 är godkända kan de tre provkoderna tillgodoräknas.",
+                "mapping": "MC113G-AA005: MC113G-A006: MC113G-A007"
+              }
+            },
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC212G",
+                "course_name": "Medicin, Sjukdomslära med farmakologi",
+                "prov_code": "A003",
+                "prov_name": "Sjukdomslära del II",
+                "content": "Skriftlig tentamen.",
+                "hp": 5.0,
+                "exam": "Skriftlig tentamen",
+                "plan_version": null,
+                "comment": "Om MC212G A002 och MC212G A003 är godkända kan de tre provkoderna tillgodoräknas.",
+                "mapping": "MC113G-AA005: MC113G-A006: MC113G-A007"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A008",
+          "name": "Medicin I",
+          "hp": 3.0,
+          "exam": "Praktisk examination",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A008",
+              "content": "Nervsystemet (neurografi)",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "MC201G",
+                      "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+                      "prov_code": "B003",
+                      "prov_name": "Medicinsk tillämpning",
+                      "content": "Nervsystemet (neurografi)",
+                      "hp": 2.0,
+                      "exam": "Praktisk examination",
+                      "plan_version": "Revision 3, giltig HT 2024",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "MC113G-A008"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "prov_code": "A008",
+              "content": "Mikrobiologi, del 1",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "MC201G",
+                      "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+                      "prov_code": "B003",
+                      "prov_name": "Medicinsk tillämpning",
+                      "content": "Mikrobiologi",
+                      "hp": 2.0,
+                      "exam": "Praktisk examination",
+                      "plan_version": "Revision 3, giltig HT 2024",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "MC113G-A008"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "prov_code": "A008",
+              "content": "Mikrobiologi , del 2",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "MC201G",
+                      "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+                      "prov_code": "B003",
+                      "prov_name": "Medicinsk tillämpning",
+                      "content": "Mikrobiologi",
+                      "hp": 2.0,
+                      "exam": "Praktisk examination",
+                      "plan_version": "Revision 3, giltig HT 2024",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "MC113G-A008"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "OM103G",
+                "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+                "prov_code": "A002",
+                "prov_name": "Metoder och tekniker",
+                "content": "Puls och blodtrycksmätning",
+                "hp": 2.0,
+                "exam": "Praktisk examination",
+                "plan_version": null,
+                "comment": "Kan tillgodoräknas.",
+                "mapping": "MC113G-A008"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A009",
+          "name": "Medicin II",
+          "hp": 4.0,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "version": null,
+          "rows": [
+            {
+              "prov_code": "A009",
+              "content": "Seminarium Artikelseminarium",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "MC212G",
+                      "course_name": "Medicin, Sjukdomslära med farmakologi",
+                      "prov_code": "B004",
+                      "prov_name": "Vetenskaplig metod",
+                      "content": "Artikelseminarium",
+                      "hp": 1.0,
+                      "exam": "Muntlig examination",
+                      "plan_version": null,
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "MC113G-A009"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "prov_code": "A009",
+              "content": "Seminarium Röntgenanatomi",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            },
+            {
+              "prov_code": "A009",
+              "content": "Seminarium Folkhälsa",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "MC212G",
+                      "course_name": "Medicin, Sjukdomslära med farmakologi",
+                      "prov_code": "A006",
+                      "prov_name": "Folkhälsa",
+                      "content": "Seminarium Folkhälsa",
+                      "hp": 1.0,
+                      "exam": "Muntlig examination",
+                      "plan_version": null,
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "MC113G-A009"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "code": "MC114G",
+      "name": "Medicin, Anatomi",
+      "version": "Revision 1, giltig HT 2026",
+      "codes": [
+        {
+          "code": "A001",
+          "name": "Anatomi",
+          "hp": 5,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Skriftlig tentamen."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "MC103G",
+              "course_name": "Medicin, Anatomi",
+              "prov_code": "A001",
+              "prov_name": "Anatomi",
+              "exam": "Skriftlig tentamen",
+              "hp": 6,
+              "mapping": "MC114G-A001",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A002",
+          "name": "Systematisk anatomi",
+          "hp": 1,
+          "exam": "Praktisk och muntlig examination samt skriftlig inlämningsuppgift",
+          "contents": [
+            "Dissektion",
+            "Quiz Thorax"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A003",
+          "name": "Topografisk anatomi",
+          "hp": 1,
+          "exam": "Muntlig examination",
+          "contents": [
+            "Seminarium där studenterna ska diskutera de olika planen och förhållanden"
+          ],
+          "new_moments": [
+            "Seminarium där studenterna ska diskutera de olika planen och förhållanden"
+          ],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A004",
+          "name": "Tillämpad anatomi",
+          "hp": 0.5,
+          "exam": "Muntlig examination",
+          "contents": [
+            "Seminarium ??"
+          ],
+          "new_moments": [
+            "Seminarium ??"
+          ],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        }
+      ],
+      "name_display": "Medicin, Anatomi",
+      "hp_total": 7.5,
+      "matrix_groups": [
+        {
+          "code": "A001",
+          "name": "Anatomi",
+          "hp": 5.0,
+          "exam": "Skriftlig tentamen",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A001",
+              "content": "Skriftlig tentamen.",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "MC103G",
+                      "course_name": "Medicin, Anatomi",
+                      "prov_code": "A001",
+                      "prov_name": "Anatomi",
+                      "content": "Skriftlig tentamen.",
+                      "hp": 6.0,
+                      "exam": "Skriftlig tentamen",
+                      "plan_version": "Revision 6, giltig HT 2025",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "MC114G-A001"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A002",
+          "name": "Systematisk anatomi",
+          "hp": 1.0,
+          "exam": "Praktisk och muntlig examination samt skriftlig inlämningsuppgift",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A002",
+              "content": "Dissektion",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "MC103G",
+                      "course_name": "Medicin, Anatomi",
+                      "prov_code": "B012",
+                      "prov_name": "Systematisk anatomi",
+                      "content": "Dissektion",
+                      "hp": 1.0,
+                      "exam": "Praktisk examination och muntlig examination",
+                      "plan_version": "Revision 6, giltig HT 2025",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "MC114G-A002"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "prov_code": "A002",
+              "content": "Quiz Thorax",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "MC103G",
+                      "course_name": "Medicin, Anatomi",
+                      "prov_code": "B012",
+                      "prov_name": "Systematisk anatomi",
+                      "content": "Quiz Thorax",
+                      "hp": 1.0,
+                      "exam": "Praktisk examination och muntlig examination",
+                      "plan_version": "Revision 6, giltig HT 2025",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "MC114G-A002"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A003",
+          "name": "Topografisk anatomi",
+          "hp": 1.0,
+          "exam": "Muntlig examination",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A003",
+              "content": "Seminarium där studenterna ska diskutera de olika planen och förhållanden",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC103G",
+                "course_name": "Medicin, Anatomi",
+                "prov_code": "B013",
+                "prov_name": "Topografisk anatomi och ytanatomi",
+                "content": "Nervsystemet",
+                "hp": 0.5,
+                "exam": "Muntlig examination",
+                "plan_version": "Revision 6, giltig HT 2025",
+                "comment": "Kan tillgodoräknas.",
+                "mapping": "MC114G-A003"
+              }
+            },
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC103G",
+                "course_name": "Medicin, Anatomi",
+                "prov_code": "B013",
+                "prov_name": "Topografisk anatomi och ytanatomi",
+                "content": "Topografisk anatomi",
+                "hp": 0.5,
+                "exam": "Muntlig examination",
+                "plan_version": "Revision 6, giltig HT 2025",
+                "comment": "Kan tillgodoräknas.",
+                "mapping": "MC114G-A003"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A004",
+          "name": "Tillämpad anatomi",
+          "hp": 0.5,
+          "exam": "Muntlig examination",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A004",
+              "content": "Seminarium ??",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "code": "RA115G",
+      "name": "Radiografi, Radiografi III",
+      "version": "Revision 1, giltig HT 2026",
+      "codes": [
+        {
+          "code": "A001",
+          "name": "Strålningsfysik",
+          "hp": 6,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "MR, nuklearmedicin, fördjupad CT-teknik, bildbehandling och processing, ultraljud"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA103G",
+              "course_name": "Radiografi, Strålningsfysik, metodik och bildbehandling",
+              "prov_code": "A001",
+              "prov_name": "Strålningsfysik, teknik och metodik",
+              "exam": "Skriftlig tentamen",
+              "hp": 4.5,
+              "mapping": "RA115G-A001",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            },
+            {
+              "course_code": "RA103G",
+              "course_name": "Radiografi, Strålningsfysik, metodik och bildbehandling",
+              "prov_code": "A002",
+              "prov_name": "Bildbehandling och processing",
+              "exam": "Skriftlig tentamen",
+              "hp": 2.5,
+              "mapping": "RA115G-A001",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A002",
+          "name": "Metodik och diagnostik",
+          "hp": 4,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Skriftlig tentamen."
+          ],
+          "new_moments": [
+            "Skriftlig tentamen."
+          ],
+          "source_notes": [
+            "Metodik blir nu tentamen istället för praktisk examination, diagsnotiken har flyttat hit istället för T5"
+          ],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A003",
+          "name": "Läkemedelsberäkning",
+          "hp": 1,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Skriftlig tentamen."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA102G",
+              "course_name": "Radiografi, Strålningsfysik, teknik och projektionslära",
+              "prov_code": "A002",
+              "prov_name": "Läkemedelsberäkning",
+              "exam": "Skriftlig tentamen",
+              "hp": 1,
+              "mapping": "RA115G-A003",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            },
+            {
+              "course_code": "RA103G",
+              "course_name": "Radiografi, Strålningsfysik, metodik och bildbehandling",
+              "prov_code": "A003",
+              "prov_name": "Läkemedelsberäkning",
+              "exam": "Skriftlig tentamen",
+              "hp": 1,
+              "mapping": "RA115G-A003",
+              "content": "Skriftlig tentamen.",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A004",
+          "name": "Vetenskaplig metod",
+          "hp": 4.5,
+          "exam": "Skriftlig inlämningsuppgift",
+          "contents": [
+            "Rapport med kvantitativ inriktning",
+            "Quiz Statistik"
+          ],
+          "new_moments": [
+            "Rapport med kvantitativ inriktning",
+            "Quiz Statistik"
+          ],
+          "source_notes": [
+            "Ersätter delvis rapporten i RA103G då den var mer kvalitativt inriktad."
+          ],
+          "matches": [
+            {
+              "course_code": "RA103G",
+              "course_name": "Radiografi, Strålningsfysik, metodik och bildbehandling",
+              "prov_code": "B005",
+              "prov_name": "Vetenskaplig metod",
+              "exam": "Skriftlig inlämningsuppgift samt muntlig examination",
+              "hp": 2,
+              "mapping": "RA115G-A004",
+              "content": "Rapport",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A005",
+          "name": "Radiografi I",
+          "hp": 3,
+          "exam": "Muntlig examination",
+          "contents": [
+            "Seminarium Bildbehandling",
+            "Seminarium Omvårdnadsteorier, personcentrerad vård, kliniskt resonemang",
+            "IPL - HBTQI",
+            "Seminarium Strålskydd och strålsäkerhet",
+            "Seminarium Professionellt förhållningssätt och handledning under vfu"
+          ],
+          "new_moments": [
+            "Seminarium Omvårdnadsteorier, personcentrerad vård, kliniskt resonemang",
+            "IPL - HBTQI",
+            "Seminarium Professionellt förhållningssätt och handledning under vfu"
+          ],
+          "source_notes": [
+            "Ersätter tentamen i OM103G, tillkommit har personcentrerad vård och kliniskt resonemang.",
+            "Förberedelse inför vfu"
+          ],
+          "matches": [
+            {
+              "course_code": "OM103G",
+              "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+              "prov_code": "A001",
+              "prov_name": "Allmän omvårdnad samt läkemedelshantering",
+              "exam": "Skriftlig tentamen",
+              "hp": 4,
+              "mapping": "RA115G-A005: RA115G-A006",
+              "content": "Skriftlig tentamen.",
+              "comment": "Läkemedelshantering har ersatts av ett examinerande quiz, omvårdnadsteorier har ersatts med ett seminarium"
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A006",
+          "name": "Radiografi II",
+          "hp": 2,
+          "exam": "Skriftlig inlämningsuppgift",
+          "contents": [
+            "Quiz mammo, angio, pediatrik",
+            "Quiz Läkemedelshantering"
+          ],
+          "new_moments": [
+            "Quiz mammo, angio, pediatrik",
+            "Quiz Läkemedelshantering"
+          ],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "OM103G",
+              "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+              "prov_code": "A001",
+              "prov_name": "Allmän omvårdnad samt läkemedelshantering",
+              "exam": "Skriftlig tentamen",
+              "hp": 4,
+              "mapping": "RA115G-A005: RA115G-A006",
+              "content": "Skriftlig tentamen.",
+              "comment": "Läkemedelshantering har ersatts av ett examinerande quiz, omvårdnadsteorier har ersatts med ett seminarium"
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A007",
+          "name": "Radiografi III",
+          "hp": 0.5,
+          "exam": "Praktisk examination",
+          "contents": [
+            "Laboration Strålskydd"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA103G",
+              "course_name": "Radiografi, Strålningsfysik, metodik och bildbehandling",
+              "prov_code": "B004",
+              "prov_name": "Radiografisk tillämpning",
+              "exam": "Praktisk examination",
+              "hp": 3,
+              "mapping": "RA115G-A007",
+              "content": "Laboration Strålskydd",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A008",
+          "name": "Metoder och tekniker",
+          "hp": 1.5,
+          "exam": "Praktisk examination",
+          "contents": [
+            "PVK, injektion/infusion",
+            "Sterila handskar och rock",
+            "Duka sterilt bord/fält"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "MC201G",
+              "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+              "prov_code": "B004",
+              "prov_name": "Seminarier",
+              "exam": "Muntlig examination",
+              "hp": 2.5,
+              "mapping": "RA115G-A008",
+              "content": "EKG och blodtryck, 2 seminarier",
+              "comment": null
+            },
+            {
+              "course_code": "MC212G",
+              "course_name": "Medicin, Sjukdomslära med farmakologi",
+              "prov_code": "A005",
+              "prov_name": "Medicinsk tillämpning",
+              "exam": "Muntlig och praktisk examination",
+              "hp": 1,
+              "mapping": "RA115G-A008",
+              "content": "HLR grund",
+              "comment": null
+            },
+            {
+              "course_code": "OM103G",
+              "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+              "prov_code": "A002",
+              "prov_name": "Metoder och tekniker",
+              "exam": "Praktisk examination",
+              "hp": 2,
+              "mapping": "RA115G-A008",
+              "content": "PVK · Sterila handskar och rock",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        }
+      ],
+      "name_display": "Radiografi III",
+      "hp_total": 22.5,
+      "matrix_groups": [
+        {
+          "code": "A001",
+          "name": "Strålningsfysik",
+          "hp": 6.0,
+          "exam": "Skriftlig tentamen",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A001",
+              "content": "MR, nuklearmedicin, fördjupad CT-teknik, bildbehandling och processing, ultraljud",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "RA103G",
+                      "course_name": "Radiografi, Strålningsfysik, metodik och bildbehandling",
+                      "prov_code": "A001",
+                      "prov_name": "Strålningsfysik, teknik och metodik",
+                      "content": "MR, nuklearmedicin, fördjupad CT-teknik, bildbehandling och processing, ultraljud",
+                      "hp": 4.5,
+                      "exam": "Skriftlig tentamen",
+                      "plan_version": "Revision 4, giltig HT 2024",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "RA115G-A001"
+                    }
+                  },
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "RA103G",
+                      "course_name": "Radiografi, Strålningsfysik, metodik och bildbehandling",
+                      "prov_code": "A002",
+                      "prov_name": "Bildbehandling och processing",
+                      "content": "MR, nuklearmedicin, fördjupad CT-teknik, bildbehandling och processing, ultraljud",
+                      "hp": 2.5,
+                      "exam": "Skriftlig tentamen",
+                      "plan_version": "Revision 4, giltig HT 2024",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "RA115G-A001"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A002",
+          "name": "Metodik och diagnostik",
+          "hp": 4.0,
+          "exam": "Skriftlig tentamen",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A002",
+              "content": "Skriftlig tentamen.",
+              "source_flag": "Nytt moment",
+              "source_comment": "Metodik blir nu tentamen istället för praktisk examination, diagnostiken har flyttat hit istället för T5. Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Metodik blir nu tentamen istället för praktisk examination, diagnostiken har flyttat hit istället för T5. Måste genomföras",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A003",
+          "name": "Läkemedelsberäkning",
+          "hp": 1.0,
+          "exam": "Skriftlig tentamen",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A003",
+              "content": "Skriftlig tentamen.",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "RA102G",
+                      "course_name": "Radiografi, Strålningsfysik, teknik och projektionslära",
+                      "prov_code": "A002",
+                      "prov_name": "Läkemedelsberäkning",
+                      "content": "Skriftlig tentamen.",
+                      "hp": 1.0,
+                      "exam": "Skriftlig tentamen",
+                      "plan_version": "Revision 4, giltig VT 2025",
+                      "comment": "Kan tillgodoräknas tillsammans med RA103G A003",
+                      "mapping": "RA115G-A003"
+                    }
+                  },
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "RA103G",
+                      "course_name": "Radiografi, Strålningsfysik, metodik och bildbehandling",
+                      "prov_code": "A003",
+                      "prov_name": "Läkemedelsberäkning",
+                      "content": "Skriftlig tentamen.",
+                      "hp": 1.0,
+                      "exam": "Skriftlig tentamen",
+                      "plan_version": "Revision 4, giltig HT 2024",
+                      "comment": "Kan tillgodoräknas tillsammans med RA102G A002",
+                      "mapping": "RA115G-A003"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A004",
+          "name": "Vetenskaplig metod",
+          "hp": 4.5,
+          "exam": "Skriftlig inlämningsuppgift",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A004",
+              "content": "Rapport med kvantitativ inriktning",
+              "source_flag": "Nytt moment",
+              "source_comment": "Ersätter delvis rapporten i RA103G då den var mer kvalitativt inriktad.",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment",
+                "comment": "Ersätter delvis rapporten i RA103G då den var mer kvalitativt inriktad.",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "RA103G",
+                      "course_name": "Radiografi, Strålningsfysik, metodik och bildbehandling",
+                      "prov_code": "B005",
+                      "prov_name": "Vetenskaplig metod",
+                      "content": "Rapport",
+                      "hp": 2.0,
+                      "exam": "Skriftlig inlämningsuppgift samt muntlig examination",
+                      "plan_version": "Revision 4, giltig HT 2024",
+                      "comment": null,
+                      "mapping": "RA115G-A004"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "prov_code": "A004",
+              "content": "Quiz Statistik",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A005",
+          "name": "Radiografi I",
+          "hp": 3.0,
+          "exam": "Muntlig examination",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A005",
+              "content": "Seminarium Bildbehandling",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "group_link",
+                "label": "Kopplingen gäller provkoden som helhet; registret anger ingen särskild äldre momentrad för just detta moment."
+              }
+            },
+            {
+              "prov_code": "A005",
+              "content": "Seminarium Omvårdnadsteorier, personcentrerad vård, kliniskt resonemang",
+              "source_flag": "Nytt moment",
+              "source_comment": "Ersätter tentamen i OM103G, tillkommit har personcentrerad vård och kliniskt resonemang. Måste genomföras.",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Ersätter tentamen i OM103G, tillkommit har personcentrerad vård och kliniskt resonemang. Måste genomföras.",
+                "records": []
+              }
+            },
+            {
+              "prov_code": "A005",
+              "content": "IPL - HBTQI",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            },
+            {
+              "prov_code": "A005",
+              "content": "Seminarium Strålskydd och strålsäkerhet",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "RA103G",
+                      "course_name": "Radiografi, Strålningsfysik, metodik och bildbehandling",
+                      "prov_code": "B006",
+                      "prov_name": "Seminarier",
+                      "content": "Strålskydd",
+                      "hp": 2.0,
+                      "exam": "Muntlig examination",
+                      "plan_version": "Revision 4, giltig HT 2024",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "RA115G-A005"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "prov_code": "A005",
+              "content": "Seminarium Professionellt förhållningssätt och handledning under vfu",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "OM103G",
+                "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+                "prov_code": "A001",
+                "prov_name": "Allmän omvårdnad samt läkemedelshantering",
+                "content": "Skriftlig tentamen.",
+                "hp": 4.0,
+                "exam": "Skriftlig tentamen",
+                "plan_version": null,
+                "comment": "Läkemedelshantering har ersatts av ett examinerande quiz, omvårdnadsteorier har ersatts med ett seminarium",
+                "mapping": "RA115G-A005: RA115G-A006"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A006",
+          "name": "Radiografi II",
+          "hp": 2.0,
+          "exam": "Skriftlig inlämningsuppgift",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A006",
+              "content": "Quiz mammo, angio, pediatrik",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            },
+            {
+              "prov_code": "A006",
+              "content": "Quiz Läkemedelshantering",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "OM103G",
+                "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+                "prov_code": "A001",
+                "prov_name": "Allmän omvårdnad samt läkemedelshantering",
+                "content": "Skriftlig tentamen.",
+                "hp": 4.0,
+                "exam": "Skriftlig tentamen",
+                "plan_version": null,
+                "comment": "Läkemedelshantering har ersatts av ett examinerande quiz, omvårdnadsteorier har ersatts med ett seminarium",
+                "mapping": "RA115G-A005: RA115G-A006"
+              }
+            }
+          ]
+        },
+        {
+          "code": "A007",
+          "name": "Radiografi III",
+          "hp": 0.5,
+          "exam": "Praktisk examination",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A007",
+              "content": "Laboration Strålskydd",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "RA103G",
+                      "course_name": "Radiografi, Strålningsfysik, metodik och bildbehandling",
+                      "prov_code": "B004",
+                      "prov_name": "Radiografisk tillämpning",
+                      "content": "Laboration Strålskydd",
+                      "hp": 3.0,
+                      "exam": "Praktisk examination",
+                      "plan_version": "Revision 4, giltig HT 2024",
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "RA115G-A007"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A008",
+          "name": "Metoder och tekniker",
+          "hp": 1.5,
+          "exam": "Praktisk examination",
+          "version": "Revision 1, giltig HT 2026",
+          "rows": [
+            {
+              "prov_code": "A008",
+              "content": "PVK, injektion/infusion",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "code",
+                    "status": "Koppling på provkodsnivå",
+                    "record": {
+                      "course_code": "OM103G",
+                      "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+                      "prov_code": "A002",
+                      "prov_name": "Metoder och tekniker",
+                      "content": "PVK",
+                      "hp": 2.0,
+                      "exam": "Praktisk examination",
+                      "plan_version": null,
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "RA115G-A008"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "prov_code": "A008",
+              "content": "Sterila handskar och rock",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "OM103G",
+                      "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+                      "prov_code": "A002",
+                      "prov_name": "Metoder och tekniker",
+                      "content": "Sterila handskar och rock",
+                      "hp": 2.0,
+                      "exam": "Praktisk examination",
+                      "plan_version": null,
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "RA115G-A008"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "prov_code": "A008",
+              "content": "Duka sterilt bord/fält",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            }
+          ],
+          "extras": [
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC201G",
+                "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+                "prov_code": "B003",
+                "prov_name": "Medicinsk tillämpning",
+                "content": "EKG och blodtryck",
+                "hp": 2.0,
+                "exam": "Praktisk examination",
+                "plan_version": "Revision 3, giltig HT 2024",
+                "comment": "Kan tillgodoräknas.",
+                "mapping": "RA115G-A008"
+              }
+            },
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC201G",
+                "course_name": "Medicin, Fysiologi med grundläggande anatomi",
+                "prov_code": "B004",
+                "prov_name": "Seminarier",
+                "content": "EKG och blodtryck, 2 seminarier",
+                "hp": 2.5,
+                "exam": "Muntlig examination",
+                "plan_version": "Revision 3, giltig HT 2024",
+                "comment": "Kan tillgodoräknas.",
+                "mapping": "RA115G-A008"
+              }
+            },
+            {
+              "kind": "mapped",
+              "level": "code",
+              "record": {
+                "course_code": "MC212G",
+                "course_name": "Medicin, Sjukdomslära med farmakologi",
+                "prov_code": "A005",
+                "prov_name": "Medicinsk tillämpning",
+                "content": "HLR grund",
+                "hp": 1.0,
+                "exam": "Muntlig och praktisk examination",
+                "plan_version": null,
+                "comment": "Kan tillgodoräknas.",
+                "mapping": "RA115G-A008"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "RA116G",
+      "name": "Radiografi, Radiografi IV",
+      "version": "Revision 1, giltig VT 2027",
+      "codes": [
+        {
+          "code": "A001",
+          "name": "Verksamhetsförlagd utbildning",
+          "hp": 3,
+          "exam": "Verksamhetsförlagd utbildning (VFU)",
+          "contents": [
+            "2 v vfu med fokus på omvårdnad på röntgen, kommunikation, bemötande, sätta pvk och assistera vid t ex punktioner"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "OM103G",
+              "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+              "prov_code": "B006",
+              "prov_name": "Verksamhetsförlagd utbildning",
+              "exam": "Verksamhetsförlagd utbildning (VFU)",
+              "hp": 3,
+              "mapping": "RA116G-A001",
+              "content": "Verksamhetsförlagd utbildning.",
+              "comment": "2 v vfu med fokus på omvårdnad på röntgen, kommunikation, bemötande, sätta pvk och assistera vid t ex punktioner"
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A002",
+          "name": "Allmän omvårdnad",
+          "hp": 1.5,
+          "exam": "Skriftlig tentamen",
+          "contents": [
+            "Aseptik"
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A003",
+          "name": "Radiografi I",
+          "hp": 1,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "contents": [
+            "Muntlig examination och skriftlig inlämningsuppgift."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A004",
+          "name": "Radiografi II",
+          "hp": 1.5,
+          "exam": "Muntlig examination",
+          "contents": [
+            "Muntlig examination."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A005",
+          "name": "Radiografi III",
+          "hp": 0.5,
+          "exam": "Skriftlig inlämningsuppgift",
+          "contents": [
+            "Skriftlig inlämningsuppgift."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA105G",
+              "course_name": "Radiografi, Tillämpad metodik II",
+              "prov_code": "B005",
+              "prov_name": "Radiografisk tillämpning",
+              "exam": "Skriftlig inlämningsuppgift",
+              "hp": 0.5,
+              "mapping": "RA116G-A005",
+              "content": "MR säkerhetstest",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        }
+      ],
+      "name_display": "Radiografi IV",
+      "hp_total": 7.5,
+      "matrix_groups": [
+        {
+          "code": "A001",
+          "name": "Verksamhetsförlagd utbildning",
+          "hp": 3.0,
+          "exam": "Verksamhetsförlagd utbildning (VFU)",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A001",
+              "content": "2 v vfu med fokus på omvårdnad på röntgen, kommunikation, bemötande, sätta pvk och assistera vid t ex punktioner",
+              "source_flag": "",
+              "source_comment": "",
+              "right": {
+                "kind": "mapped",
+                "records": [
+                  {
+                    "level": "code",
+                    "status": "Koppling på provkodsnivå",
+                    "record": {
+                      "course_code": "OM103G",
+                      "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+                      "prov_code": "B006",
+                      "prov_name": "Verksamhetsförlagd utbildning",
+                      "content": "Verksamhetsförlagd utbildning.",
+                      "hp": 3.0,
+                      "exam": "Verksamhetsförlagd utbildning (VFU)",
+                      "plan_version": null,
+                      "comment": "2 v vfu med fokus på omvårdnad på röntgen, kommunikation, bemötande, sätta pvk och assistera vid t ex punktioner",
+                      "mapping": "RA116G-A001"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A002",
+          "name": "Allmän omvårdnad",
+          "hp": 1.5,
+          "exam": "Skriftlig tentamen",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A002",
+              "content": "Aseptik",
+              "source_flag": "Nytt moment",
+              "source_comment": "Måste genomföras",
+              "right": {
+                "kind": "new",
+                "label": "Nytt moment, måste kompletteras",
+                "comment": "Måste genomföras",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A003",
+          "name": "Radiografi I",
+          "hp": 1.0,
+          "exam": "Muntlig examination och skriftlig inlämningsuppgift",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A003",
+              "content": "Muntlig examination och skriftlig inlämningsuppgift.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A004",
+          "name": "Radiografi II",
+          "hp": 1.5,
+          "exam": "Muntlig examination",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A004",
+              "content": "Muntlig examination.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A005",
+          "name": "Radiografi III",
+          "hp": 0.5,
+          "exam": "Skriftlig inlämningsuppgift",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A005",
+              "content": "Skriftlig inlämningsuppgift.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "code": "RA117G",
+      "name": "Radiografi, Metodik I",
+      "version": "Revision 1, giltig VT 2027",
+      "codes": [
+        {
+          "code": "A001",
+          "name": "Verksamhetsförlagd utbildning, block 1",
+          "hp": 4,
+          "exam": "Verksamhetsförlagd utbildning (VFU)",
+          "contents": [
+            "VFU, block 1."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA104G",
+              "course_name": "Radiografi, Tillämpad metodik I",
+              "prov_code": "A001",
+              "prov_name": "Kliniskt tillämpad metodik I",
+              "exam": "Verksamhetsförlagd utbildning (VFU)",
+              "hp": 4,
+              "mapping": "RA117G-A001",
+              "content": "VFU, block 1. Skelett",
+              "comment": "Delvis förändrat innehåll på röntgenmodaliteterna"
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A002",
+          "name": "Klinisk metodik, block 1",
+          "hp": 0.5,
+          "exam": "Praktisk examination",
+          "contents": [
+            "Praktisk examination, block 1."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A003",
+          "name": "Verksamhetsförlagd utbildning, block 2",
+          "hp": 4,
+          "exam": "Verksamhetsförlagd utbildning (VFU)",
+          "contents": [
+            "VFU, block 2."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA104G",
+              "course_name": "Radiografi, Tillämpad metodik I",
+              "prov_code": "A002",
+              "prov_name": "Kliniskt tillämpad metodik II",
+              "exam": "Verksamhetsförlagd utbildning (VFU)",
+              "hp": 4,
+              "mapping": "RA117G-A003",
+              "content": "VFU, block 2. DT",
+              "comment": "Delvis förändrat innehåll på röntgenmodaliteterna"
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A004",
+          "name": "Klinisk metodik, block 2",
+          "hp": 0.5,
+          "exam": "Praktisk examination",
+          "contents": [
+            "Praktisk examination, block 2."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A005",
+          "name": "Verksamhetsförlagd utbildning, block 3",
+          "hp": 4,
+          "exam": "Verksamhetsförlagd utbildning (VFU)",
+          "contents": [
+            "VFU, block 3."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "RA104G",
+              "course_name": "Radiografi, Tillämpad metodik I",
+              "prov_code": "A003",
+              "prov_name": "Kliniskt tillämpad metodik III",
+              "exam": "Verksamhetsförlagd utbildning (VFU)",
+              "hp": 4,
+              "mapping": "RA117G-A005",
+              "content": "VFU, block 3. Blandblock",
+              "comment": "Delvis förändrat innehåll på röntgenmodaliteterna"
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A006",
+          "name": "Klinisk metodik, block 3",
+          "hp": 0.5,
+          "exam": "Muntlig examination",
+          "contents": [
+            "Muntlig examination, block 3."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A007",
+          "name": "Radiografi I",
+          "hp": 1.5,
+          "exam": "Praktisk examination och muntlig examination",
+          "contents": [
+            "Praktisk examination och muntlig examination."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        }
+      ],
+      "name_display": "Metodik I",
+      "hp_total": 15.0,
+      "matrix_groups": [
+        {
+          "code": "A001",
+          "name": "Verksamhetsförlagd utbildning, block 1",
+          "hp": 4.0,
+          "exam": "Verksamhetsförlagd utbildning (VFU)",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A001",
+              "content": "VFU, block 1.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "RA104G",
+                      "course_name": "Radiografi, Tillämpad metodik I",
+                      "prov_code": "A001",
+                      "prov_name": "Kliniskt tillämpad metodik I",
+                      "content": "VFU, block 1. Skelett",
+                      "hp": 4.0,
+                      "exam": "Verksamhetsförlagd utbildning (VFU)",
+                      "plan_version": "Revision 3, giltig VT 2025",
+                      "comment": "Delvis förändrat innehåll på röntgenmodaliteterna",
+                      "mapping": "RA117G-A001"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A002",
+          "name": "Klinisk metodik, block 1",
+          "hp": 0.5,
+          "exam": "Praktisk examination",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A002",
+              "content": "Praktisk examination, block 1.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A003",
+          "name": "Verksamhetsförlagd utbildning, block 2",
+          "hp": 4.0,
+          "exam": "Verksamhetsförlagd utbildning (VFU)",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A003",
+              "content": "VFU, block 2.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "RA104G",
+                      "course_name": "Radiografi, Tillämpad metodik I",
+                      "prov_code": "A002",
+                      "prov_name": "Kliniskt tillämpad metodik II",
+                      "content": "VFU, block 2. DT",
+                      "hp": 4.0,
+                      "exam": "Verksamhetsförlagd utbildning (VFU)",
+                      "plan_version": "Revision 3, giltig VT 2025",
+                      "comment": "Delvis förändrat innehåll på röntgenmodaliteterna",
+                      "mapping": "RA117G-A003"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A004",
+          "name": "Klinisk metodik, block 2",
+          "hp": 0.5,
+          "exam": "Praktisk examination",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A004",
+              "content": "Praktisk examination, block 2.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A005",
+          "name": "Verksamhetsförlagd utbildning, block 3",
+          "hp": 4.0,
+          "exam": "Verksamhetsförlagd utbildning (VFU)",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A005",
+              "content": "VFU, block 3.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": [
+                  {
+                    "level": "content",
+                    "status": "Äldre innehåll att jämföra",
+                    "record": {
+                      "course_code": "RA104G",
+                      "course_name": "Radiografi, Tillämpad metodik I",
+                      "prov_code": "A003",
+                      "prov_name": "Kliniskt tillämpad metodik III",
+                      "content": "VFU, block 3. Blandblock",
+                      "hp": 4.0,
+                      "exam": "Verksamhetsförlagd utbildning (VFU)",
+                      "plan_version": "Revision 3, giltig VT 2025",
+                      "comment": "Delvis förändrat innehåll på röntgenmodaliteterna",
+                      "mapping": "RA117G-A005"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A006",
+          "name": "Klinisk metodik, block 3",
+          "hp": 0.5,
+          "exam": "Muntlig examination",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A006",
+              "content": "Muntlig examination, block 3.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A007",
+          "name": "Radiografi I",
+          "hp": 1.5,
+          "exam": "Praktisk examination och muntlig examination",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A007",
+              "content": "Praktisk examination och muntlig examination.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "code": "RA118G",
+      "name": "Radiografi, Radiografi V",
+      "version": "Revision 1, giltig VT 2027",
+      "codes": [
+        {
+          "code": "A001",
+          "name": "Verksamhetsförlagd utbildning",
+          "hp": 1.5,
+          "exam": "Verksamhetsförlagd utbildning (VFU)",
+          "contents": [
+            "VFU."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "OM104G",
+              "course_name": "Omvårdnadsvetenskap, Akut och svårt sjuk patient",
+              "prov_code": "B003",
+              "prov_name": "Verksamhetsförlagd utbildning",
+              "exam": "Verksamhetsförlagd utbildning (VFU)",
+              "hp": 1,
+              "mapping": "RA118G-A001",
+              "content": "VFU 1 v IVA alt AKM",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A002",
+          "name": "Metoder och tekniker",
+          "hp": 1.5,
+          "exam": "Praktisk examination",
+          "contents": [
+            "Praktisk examination."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "OM104G",
+              "course_name": "Omvårdnadsvetenskap, Akut och svårt sjuk patient",
+              "prov_code": "B002",
+              "prov_name": "Metoder och tekniker",
+              "exam": "Praktisk examination",
+              "hp": 1.5,
+              "mapping": "RA118G-A002",
+              "content": "Centrala infarter",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A003",
+          "name": "Tillämpad radiografisk omvårdnad",
+          "hp": 1.5,
+          "exam": "Praktisk examination",
+          "contents": [
+            "Praktisk examination."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "OM104G",
+              "course_name": "Omvårdnadsvetenskap, Akut och svårt sjuk patient",
+              "prov_code": "B002",
+              "prov_name": "Metoder och tekniker",
+              "exam": "Praktisk examination",
+              "hp": 1.5,
+              "mapping": "RA118G-A003",
+              "content": "S-HLR",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A004",
+          "name": "Radiografi I",
+          "hp": 2,
+          "exam": "Muntlig examination",
+          "contents": [
+            "Muntlig examination."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [
+            {
+              "course_code": "OM104G",
+              "course_name": "Omvårdnadsvetenskap, Akut och svårt sjuk patient",
+              "prov_code": "A004",
+              "prov_name": "Seminarier",
+              "exam": "Muntlig examination",
+              "hp": 1,
+              "mapping": "RA118G-A004",
+              "content": "Seminarier; kursplanen anger inte antal eller teman.",
+              "comment": null
+            }
+          ],
+          "unresolved_matches": []
+        },
+        {
+          "code": "A005",
+          "name": "Radiografi II",
+          "hp": 1,
+          "exam": "Skriftlig inlämningsuppgift",
+          "contents": [
+            "Skriftlig inlämningsuppgift."
+          ],
+          "new_moments": [],
+          "source_notes": [],
+          "matches": [],
+          "unresolved_matches": []
+        }
+      ],
+      "name_display": "Radiografi V",
+      "hp_total": 7.5,
+      "matrix_groups": [
+        {
+          "code": "A001",
+          "name": "Verksamhetsförlagd utbildning",
+          "hp": 1.5,
+          "exam": "Verksamhetsförlagd utbildning (VFU)",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A001",
+              "content": "VFU.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": [
+                  {
+                    "level": "code",
+                    "status": "Koppling på provkodsnivå",
+                    "record": {
+                      "course_code": "OM104G",
+                      "course_name": "Omvårdnadsvetenskap, Akut och svårt sjuk patient",
+                      "prov_code": "B003",
+                      "prov_name": "Verksamhetsförlagd utbildning",
+                      "content": "VFU 1 v IVA alt AKM",
+                      "hp": 1.0,
+                      "exam": "Verksamhetsförlagd utbildning (VFU)",
+                      "plan_version": null,
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "RA118G-A001"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A002",
+          "name": "Metoder och tekniker",
+          "hp": 1.5,
+          "exam": "Praktisk examination",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A002",
+              "content": "Praktisk examination.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": [
+                  {
+                    "level": "code",
+                    "status": "Koppling på provkodsnivå",
+                    "record": {
+                      "course_code": "OM104G",
+                      "course_name": "Omvårdnadsvetenskap, Akut och svårt sjuk patient",
+                      "prov_code": "B002",
+                      "prov_name": "Metoder och tekniker",
+                      "content": "Centrala infarter",
+                      "hp": 1.5,
+                      "exam": "Praktisk examination",
+                      "plan_version": null,
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "RA118G-A002"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A003",
+          "name": "Tillämpad radiografisk omvårdnad",
+          "hp": 1.5,
+          "exam": "Praktisk examination",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A003",
+              "content": "Praktisk examination.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": [
+                  {
+                    "level": "code",
+                    "status": "Koppling på provkodsnivå",
+                    "record": {
+                      "course_code": "OM104G",
+                      "course_name": "Omvårdnadsvetenskap, Akut och svårt sjuk patient",
+                      "prov_code": "B002",
+                      "prov_name": "Metoder och tekniker",
+                      "content": "S-HLR",
+                      "hp": 1.5,
+                      "exam": "Praktisk examination",
+                      "plan_version": null,
+                      "comment": "Kan tillgodoräknas.",
+                      "mapping": "RA118G-A003"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A004",
+          "name": "Radiografi I",
+          "hp": 2.0,
+          "exam": "Muntlig examination",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A004",
+              "content": "Muntlig examination.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": [
+                  {
+                    "level": "code",
+                    "status": "Koppling på provkodsnivå",
+                    "record": {
+                      "course_code": "OM104G",
+                      "course_name": "Omvårdnadsvetenskap, Akut och svårt sjuk patient",
+                      "prov_code": "A004",
+                      "prov_name": "Seminarier",
+                      "content": "Seminarier; kursplanen anger inte antal eller teman.",
+                      "hp": 1.0,
+                      "exam": "Muntlig examination",
+                      "plan_version": null,
+                      "comment": null,
+                      "mapping": "RA118G-A004"
+                    }
+                  }
+                ]
+              }
+            }
+          ],
+          "extras": []
+        },
+        {
+          "code": "A005",
+          "name": "Radiografi II",
+          "hp": 1.0,
+          "exam": "Skriftlig inlämningsuppgift",
+          "version": "Revision 1, giltig VT 2027",
+          "rows": [
+            {
+              "prov_code": "A005",
+              "content": "Skriftlig inlämningsuppgift.",
+              "source_flag": "Motsvarandebedömning ej genomförd ännu",
+              "source_comment": "",
+              "right": {
+                "kind": "pending",
+                "label": "Motsvarandebedömning ej genomförd ännu",
+                "records": []
+              }
+            }
+          ],
+          "extras": []
+        }
+      ]
+    }
+  ],
+  "unlinked_legacy_rows": [
+    {
+      "status": "Bedömning ej klar",
+      "course_code": "OM103G",
+      "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+      "prov_code": "C003",
+      "prov_name": "Seminarier",
+      "content": "VFU-seminarium",
+      "hp": 1.5,
+      "exam": "Muntlig examination",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Bedömning ej klar"
+    },
+    {
+      "status": "Bedömning ej klar",
+      "course_code": "OM103G",
+      "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+      "prov_code": "C004",
+      "prov_name": "Grundläggande omvårdnad",
+      "content": "Etik (sem+inlämning)",
+      "hp": 2.0,
+      "exam": "Skriftlig inlämningsuppgift och muntlig examination",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Bedömning ej klar"
+    },
+    {
+      "status": "Bedömning ej klar",
+      "course_code": "OM103G",
+      "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+      "prov_code": "C004",
+      "prov_name": "Grundläggande omvårdnad",
+      "content": "Hygien (sem+inlämning)",
+      "hp": 2.0,
+      "exam": "Skriftlig inlämningsuppgift och muntlig examination",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Bedömning ej klar"
+    },
+    {
+      "status": "Bedömning ej klar",
+      "course_code": "OM103G",
+      "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+      "prov_code": "C004",
+      "prov_name": "Grundläggande omvårdnad",
+      "content": "Kommunikation (sem+inlämning)",
+      "hp": 2.0,
+      "exam": "Skriftlig inlämningsuppgift och muntlig examination",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Bedömning ej klar"
+    },
+    {
+      "status": "Bedömning ej klar",
+      "course_code": "OM103G",
+      "course_name": "Omvårdnadsvetenskap, Teori och tillämpning",
+      "prov_code": "C005",
+      "prov_name": "Vetenskaplig metod",
+      "content": "Rapport",
+      "hp": 2.5,
+      "exam": "Skriftlig inlämningsuppgift",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Bedömning ej klar"
+    },
+    {
+      "status": "Bedömning ej klar",
+      "course_code": "RA104G",
+      "course_name": "Radiografi, Tillämpad metodik I",
+      "prov_code": "A004",
+      "prov_name": "Vetenskaplig metodik inom radiografi",
+      "content": "Rapport och rapportseminarium",
+      "hp": 2.0,
+      "exam": "Skriftlig inlämningsuppgift samt muntlig examination",
+      "plan_version": "Revision 3, giltig VT 2025",
+      "comment": null,
+      "mapping": "Bedömning ej klar"
+    },
+    {
+      "status": "Bedömning ej klar",
+      "course_code": "RA104G",
+      "course_name": "Radiografi, Tillämpad metodik I",
+      "prov_code": "A005",
+      "prov_name": "Radiografisk tillämpning",
+      "content": "Praktisk examination.",
+      "hp": 1.0,
+      "exam": "Praktisk examination",
+      "plan_version": "Revision 3, giltig VT 2025",
+      "comment": null,
+      "mapping": "Bedömning ej klar"
+    },
+    {
+      "status": "Bedömning ej klar",
+      "course_code": "OM104G",
+      "course_name": "Omvårdnadsvetenskap, Akut och svårt sjuk patient",
+      "prov_code": "B001",
+      "prov_name": "Akut och svårt sjuk patient",
+      "content": "Quiz Katastrofmedicin",
+      "hp": 2.5,
+      "exam": "Skriftlig inlämningsuppgift samt muntlig examination",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Bedömning ej klar"
+    },
+    {
+      "status": "Bedömning ej klar",
+      "course_code": "OM104G",
+      "course_name": "Omvårdnadsvetenskap, Akut och svårt sjuk patient",
+      "prov_code": "B005",
+      "prov_name": "Tillämpad omvårdnad",
+      "content": "Praktisk examination.",
+      "hp": 1.5,
+      "exam": "Praktisk examination",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Bedömning ej klar"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA105G",
+      "course_name": "Radiografi, Tillämpad metodik II",
+      "prov_code": "A001",
+      "prov_name": "Kliniskt tillämpad metodik I",
+      "content": "VFU, block 1.",
+      "hp": 4.0,
+      "exam": "Verksamhetsförlagd utbildning (VFU)",
+      "plan_version": "Revision 4, giltig HT 2026",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA105G",
+      "course_name": "Radiografi, Tillämpad metodik II",
+      "prov_code": "A002",
+      "prov_name": "Kliniskt tillämpad metodik II",
+      "content": "VFU, block 2.",
+      "hp": 4.0,
+      "exam": "Verksamhetsförlagd utbildning (VFU)",
+      "plan_version": "Revision 4, giltig HT 2026",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA105G",
+      "course_name": "Radiografi, Tillämpad metodik II",
+      "prov_code": "A003",
+      "prov_name": "Kliniskt tillämpad metodik III",
+      "content": "VFU, block 3.",
+      "hp": 4.0,
+      "exam": "Verksamhetsförlagd utbildning (VFU)",
+      "plan_version": "Revision 4, giltig HT 2026",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA105G",
+      "course_name": "Radiografi, Tillämpad metodik II",
+      "prov_code": "A004",
+      "prov_name": "Kliniskt tillämpad metodik IV",
+      "content": "VFU, block 4.",
+      "hp": 4.0,
+      "exam": "Verksamhetsförlagd utbildning (VFU)",
+      "plan_version": "Revision 4, giltig HT 2026",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA105G",
+      "course_name": "Radiografi, Tillämpad metodik II",
+      "prov_code": "B005",
+      "prov_name": "Radiografisk tillämpning",
+      "content": "MR säkerhetstest",
+      "hp": 0.5,
+      "exam": "Skriftlig inlämningsuppgift",
+      "plan_version": "Revision 4, giltig HT 2026",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA105G",
+      "course_name": "Radiografi, Tillämpad metodik II",
+      "prov_code": "B006",
+      "prov_name": "Seminarier",
+      "content": "Seminarier",
+      "hp": 2.0,
+      "exam": "Muntlig examination",
+      "plan_version": "Revision 4, giltig HT 2026",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA105G",
+      "course_name": "Radiografi, Tillämpad metodik II",
+      "prov_code": "B007",
+      "prov_name": "Vetenskaplig metod",
+      "content": "Skriftlig inlämningsuppgift och muntlig examination.",
+      "hp": 4.0,
+      "exam": "Skriftlig inlämningsuppgift och muntlig examination",
+      "plan_version": "Revision 4, giltig HT 2026",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "MC203G",
+      "course_name": "Medicin, Diagnostik inom radiologi",
+      "prov_code": "A001",
+      "prov_name": "Diagnostik inom radiologi",
+      "content": "Skriftlig tentamen.",
+      "hp": 5.0,
+      "exam": "Skriftlig tentamen",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "MC203G",
+      "course_name": "Medicin, Diagnostik inom radiologi",
+      "prov_code": "B003",
+      "prov_name": "Seminarier",
+      "content": "Worskhop 1",
+      "hp": 2.5,
+      "exam": "Muntlig examination",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "MC203G",
+      "course_name": "Medicin, Diagnostik inom radiologi",
+      "prov_code": "B003",
+      "prov_name": "Seminarier",
+      "content": "Workshop 2",
+      "hp": 2.5,
+      "exam": "Muntlig examination",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "MC203G",
+      "course_name": "Medicin, Diagnostik inom radiologi",
+      "prov_code": "B003",
+      "prov_name": "Seminarier",
+      "content": "Workshop 3",
+      "hp": 2.5,
+      "exam": "Muntlig examination",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "MC203G",
+      "course_name": "Medicin, Diagnostik inom radiologi",
+      "prov_code": "B003",
+      "prov_name": "Seminarier",
+      "content": "Metodik och diangnostikseminarium",
+      "hp": 2.5,
+      "exam": "Muntlig examination",
+      "plan_version": null,
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA106G",
+      "course_name": "Radiografi, Tillämpad metodik III",
+      "prov_code": "B001",
+      "prov_name": "Kliniskt tillämpad metodik",
+      "content": "VFU 1 v CT, 1 v konv rtg",
+      "hp": 2.5,
+      "exam": "Verksamhetsförlagd utbildning (VFU)",
+      "plan_version": "Revision 4, giltig VT 2027",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA106G",
+      "course_name": "Radiografi, Tillämpad metodik III",
+      "prov_code": "B002",
+      "prov_name": "VFU-plan",
+      "content": "Skriftlig inlämningsuppgift och muntlig examination.",
+      "hp": 0.5,
+      "exam": "Skriftlig inlämningsuppgift samt muntlig examination",
+      "plan_version": "Revision 4, giltig VT 2027",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA106G",
+      "course_name": "Radiografi, Tillämpad metodik III",
+      "prov_code": "A002",
+      "prov_name": "Vetenskaplig metod inom radiografi",
+      "content": "Skriftlig inlämningsuppgift och muntlig examination.",
+      "hp": 2.5,
+      "exam": "Skriftlig inlämningsuppgift samt muntlig examination",
+      "plan_version": "Revision 4, giltig VT 2027",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA106G",
+      "course_name": "Radiografi, Tillämpad metodik III",
+      "prov_code": "A003",
+      "prov_name": "Projektplan inför examensarbete",
+      "content": "Projektplan, skriftlig inlämning som seminariebehandlas.",
+      "hp": 2.0,
+      "exam": "Skriftlig inlämningsuppgift samt muntlig examination",
+      "plan_version": "Revision 4, giltig VT 2027",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA107G",
+      "course_name": "Radiografi, Examensarbete",
+      "prov_code": "B001",
+      "prov_name": "Examensarbete",
+      "content": "Självständigt arbete",
+      "hp": 15.0,
+      "exam": "Skriftlig och muntlig examination vid slutseminarium",
+      "plan_version": "Revision 4, giltig VT 2027",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA107G",
+      "course_name": "Radiografi, Examensarbete",
+      "prov_code": "B001",
+      "prov_name": "Examensarbete",
+      "content": "Opponentskap",
+      "hp": 15.0,
+      "exam": "Skriftlig och muntlig examination vid slutseminarium",
+      "plan_version": "Revision 4, giltig VT 2027",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA107G",
+      "course_name": "Radiografi, Examensarbete",
+      "prov_code": "B001",
+      "prov_name": "Examensarbete",
+      "content": "Resondenskap",
+      "hp": 15.0,
+      "exam": "Skriftlig och muntlig examination vid slutseminarium",
+      "plan_version": "Revision 4, giltig VT 2027",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA108G",
+      "course_name": "Radiografi, Arbetsledning, kvalitetsarbete och evidens",
+      "prov_code": "B001",
+      "prov_name": "Förbättringsarbete",
+      "content": "Skriftlig inlämningsuppgift och muntlig examination.",
+      "hp": 3.5,
+      "exam": "Skriftlig inlämningsuppgift samt muntlig examination",
+      "plan_version": "Revision 1, giltig VT 2027",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA108G",
+      "course_name": "Radiografi, Arbetsledning, kvalitetsarbete och evidens",
+      "prov_code": "B002",
+      "prov_name": "Arbetsledning",
+      "content": "Skriftlig inlämningsuppgift och muntlig examination.",
+      "hp": 1.5,
+      "exam": "Skriftlig inlämningsuppgift samt muntlig examination",
+      "plan_version": "Revision 1, giltig VT 2027",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA108G",
+      "course_name": "Radiografi, Arbetsledning, kvalitetsarbete och evidens",
+      "prov_code": "B003",
+      "prov_name": "Yrkesroll",
+      "content": "Muntlig examination.",
+      "hp": 1.0,
+      "exam": "Muntlig examination",
+      "plan_version": "Revision 1, giltig VT 2027",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    },
+    {
+      "status": "Kursplan saknas i dagsläget",
+      "course_code": "RA108G",
+      "course_name": "Radiografi, Arbetsledning, kvalitetsarbete och evidens",
+      "prov_code": "A004",
+      "prov_name": "E-hälsa",
+      "content": "Skriftlig inlämningsuppgift och muntlig examination.",
+      "hp": 1.5,
+      "exam": "Skriftlig inlämningsuppgift samt muntlig examination",
+      "plan_version": "Revision 1, giltig VT 2027",
+      "comment": null,
+      "mapping": "Kursplan saknas i dagsläget"
+    }
+  ]
+}
